@@ -1,3 +1,6 @@
+# Opdracht: Nano
+# Naam: Morid Aziz
+# Studentnummer: 1861078
 import random  # Importeer de volledige random module
 
 def get_computer_choice():
