@@ -1,4 +1,4 @@
-# Opdracht: Nano
+# Opdracht: een extra spel
 # Naam: Morid Aziz
 # Studentnummer: 1861078
 import random  # Importeer de volledige random module

@@ -2,7 +2,6 @@
 # Naam: Morid Aziz
 # Studentnummer: 1861078
 
-# De code dat/die ik meest trots op ben.
 import random
 # Sprint 1: nummer raden
 # The import let us import entire libraries or specific library functions into code

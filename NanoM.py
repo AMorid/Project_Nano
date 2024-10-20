@@ -2,7 +2,7 @@
 # Naam: Morid Aziz
 # Studentnummer: 111000010110010111110
 # Bronen: Presentaties uit de les. W3school, Python.org, een regeltje chatGPT, namelijk: regel 150.
-# https://github.com/AMorid/Project_Nano.git
+
 import random
 import datetime
 import os
@@ -150,8 +150,3 @@ if __name__ == "__main__":
     os.makedirs("files", exist_ok=True)
     # Start mijn hoofdmenu
     main_menu()
-
-# (To-DO lijs voor de NANO XL)
-# Voeg een wachtwoord toe aan het dagboek
-# Geef de gebruiker de mogelijkheid om de tekst van een dag op te vragen en te lezen
-# Geef de gebruiker de mogelijkheid om een tekst te bewerken
