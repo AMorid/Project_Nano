@@ -1,6 +1,6 @@
 # Opdracht: een extra spel
 # Naam: Morid Aziz
-# Studentnummer: 1861078
+# Studentnummer:
 import random  # Importeer de volledige random module
 
 def get_computer_choice():
@@ -21,7 +21,7 @@ def de_winner(user_choice, computer_choice):
 
 def my_rps_game():
     # de functie voor Rock, Paper, Scissors spel
-    print("Welcome to my Rock, Paper, Scissors - the easy edition!")
+    print("Welcome to my Rock, Paper, Scissors game!")
     while True: # while-loops
         user_choice = input("Choose Rock, Paper, or Scissors (or type 'exit' to quit): ").capitalize()
 

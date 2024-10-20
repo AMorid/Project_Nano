@@ -1,7 +1,7 @@
 # Sprint 3 voor mijn hoofdmenu
 import os
 
-from NanoM import nummer_raad_spel, my_rps_game, manage_journal
+from Nano import nummer_raad_spel, my_rps_game, manage_journal
 
 
 def main_menu():

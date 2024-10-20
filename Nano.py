@@ -126,7 +126,7 @@ def my_rps_game():
 # Sprint 3 voor mijn hoofdmenu
 def main_menu():
     while True:
-        print("\nWelkom bij de Nano App Store!")
+        print("\nWelkom bij Nano App Store!")
         print("1. Raad Spel")  # Start het nummer raden spel
         print("2. Rock, Paper, Scissors")   # Start het Rock, Paper, Scissors spel
         print("3. Dagboek")

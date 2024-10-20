@@ -1,6 +1,6 @@
 # Opdracht: Nano Raadspel
 # Naam: Morid Aziz
-# Studentnummer: 1861078
+# Studentnummer:
 
 import random
 # Sprint 1: nummer raden

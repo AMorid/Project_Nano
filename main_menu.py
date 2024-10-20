@@ -1,6 +1,6 @@
 print("Welkom bij de Nano App Store!")
 print("1. Nummer Raad Spel")
-import NanoM
+import Nano
 import SprintIII  # van journal management
 import SprintI  # Dit module bevat het nummer raden spel
 import rps  # Dit module bevat Rock, Paper, Scissors spel
