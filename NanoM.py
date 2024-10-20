@@ -2,8 +2,7 @@
 # Naam: Morid Aziz
 # Studentnummer: 111000010110010111110
 # Bronen: Presentaties uit de les. W3school, Python.org, een regeltje chatGPT, namelijk: regel 150.
-# https://github.com/AMorid/Nanom.git
-# Als test push ik deze weer!
+# https://github.com/AMorid/Project_Nano.git
 import random
 import datetime
 import os
